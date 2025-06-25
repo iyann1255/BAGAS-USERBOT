@@ -68,7 +68,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "12"
+        "version": "14"
       }
     }
   ],"buildpacks": [{
